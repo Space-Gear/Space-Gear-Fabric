@@ -5,13 +5,14 @@
 
     {
         "id": "1.5.0",
-        "releasedAt": 1759349640000,
+        "releasedAt": 1759451880000,
         "promotions": {
             "downloads": {
-                "modrinth": "https://modrinth.com/modpack/space-gear/version/1.5.0"
+                "modrinth": "https://modrinth.com/modpack/space-gear/version/1.5.0-fabric"
               }
         }
     }
 ]
 
 }
+
