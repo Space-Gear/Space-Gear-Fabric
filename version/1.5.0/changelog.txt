@@ -1,0 +1,50 @@
+# Space-Gear "Fabric" **1.5.0** 
+
+    This version is released as a test build to check stability and compatibility!
+    It is not certain that this version will be further developed
+
+### If you find any errors, please contact our [Discord](https://discord.com/invite/CKTJQyd7Mk)
+
+## **Changes**
+
+### Desing
+
+    Some parts of the interface have been redesigned
+
+### Music
+
+    Music added to the main menu 
+
+**"The music was composed by [Fangug](https://www.youtube.com/@MinorDreams)"**
+
+## Removed due to incompatibility
+
+- Create: Misc and Things 
+
+- Create: Central Kitchen 
+
+- Embeddium (Rubidium) Extra 
+
+- Create Mechanical Extruder 
+
+- Alex's Mobs 
+
+- Wooden Shears 
+
+- Smooth Boot (Reloaded) 
+
+- Curios API 
+
+- Create Encased 
+
+- Create: Tweaked Controllers 
+
+- Create Stuff 'N Additions 
+
+- LibX 
+
+- Liquid Burner 
+
+- Embeddium 
+
+- Create Mechanical Spawner 
